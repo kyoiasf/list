@@ -96,7 +96,7 @@ function setup() {
     0
   );
   addGif(
-    "_ (50).gif",
+    "animation-50.gif",
     "corner animation",
     900,
     900,
@@ -120,7 +120,7 @@ function setup() {
     "poem-image",
     "contain"
   );
-  addGif("_ (48).gif", "top left animation", 150, 150, 1, 15, 15);
+  addGif("animation-48.gif", "top left animation", 150, 150, 1, 15, 15);
   resizeCanvas();
   drawPoem();
 }
