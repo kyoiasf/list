@@ -120,7 +120,7 @@ function setup() {
     "poem-image",
     "contain"
   );
-  addGif("animation-48.gif", "top left animation", 150, 150, 1, 15, 15);
+  addGif("animation-48.gif", "top left animation", 260, 146, 1, 25, 35, "", "contain");
   resizeCanvas();
   drawPoem();
 }
